@@ -1,6 +1,8 @@
 from email.policy import default
 from tkinter import *
 from tkinter import ttk
+import math_operator  as ma
+
 
 window = Tk()
 window.title("Калькулятор_Стар")
